@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>app/Http/routes.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>31</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/xampp/htdocs/phpsorm2/app/Http/Controllers/programs.php</file>
+            <file>file:/F:/xampp/htdocs/phpsorm2/app/Http/Middleware/companyActivity.php</file>
+            <file>file:/F:/xampp/htdocs/phpsorm2/app/Http/Middleware/login.php</file>
+            <file>file:/F:/xampp/htdocs/phpsorm2/app/Http/Middleware/program.php</file>
+            <file>file:/F:/xampp/htdocs/phpsorm2/resources/lang/ar/company.php</file>
+            <file>file:/F:/xampp/htdocs/phpsorm2/resources/lang/ar/programm.php</file>
+            <file>file:/F:/xampp/htdocs/phpsorm2/app/Http/Controllers/companyprofile.php</file>
+            <file>file:/F:/xampp/htdocs/phpsorm2/app/Http/routes.php</file>
+            <file>file:/F:/xampp/htdocs/phpsorm2/app/Http/Controllers/companyController.php</file>
+            <file>file:/F:/xampp/htdocs/phpsorm2/app/Http/Middleware/company.php</file>
+        </group>
+    </open-files>
+</project-private>

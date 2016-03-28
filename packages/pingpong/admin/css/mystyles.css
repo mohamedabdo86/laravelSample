@@ -1,0 +1,41 @@
+/*YOUR CUSTOM STYLES*/
+.i-check, .i-radio {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0;
+	padding: 0;
+	width: 22px;
+	height: 22px;
+	border: 1px solid #ccc;
+	cursor: pointer;
+	top: 1px;
+	right: -5px;
+/*	margin-right: -13px;
+*/	float: right;
+	text-align: center;
+	line-height: 20px;
+	-webkit-transition: 0.3s;
+	-moz-transition: 0.3s;
+	-o-transition: 0.3s;
+	-ms-transition: 0.3s;
+	transition: 0.3s;
+	position: relative;
+	overflow: hidden;
+}
+.form-group .input-icon { 
+	     top: 0px; 
+		 left: 14px;
+}
+.form-group.form-group-icon-right .input-icon {
+	right:14px;
+}
+.form-horizontal .form-group {
+	margin-right: 0px;
+}
+th {
+    text-align: right;
+}
+.panel-title > a:before {
+	left: 15px;
+	right:2px;
+}
